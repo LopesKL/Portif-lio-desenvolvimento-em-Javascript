@@ -1,0 +1,42 @@
+body{
+    background-color: rgba(167, 167, 167, 0.089);
+}
+
+#section{
+    padding: 5px;
+    text-align: center;
+}
+#entrada-email {
+    text-align:left;
+    padding: 6px;
+    margin-top: 8px;
+}
+
+#email{
+    margin-top: 8px;  
+    padding-left: 150px;
+    padding-right: 150px;
+    background-color: rgba(255, 255, 255, 0.068);
+    border-top-width: 2px;
+    border-right-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+}
+
+#mensage{
+    margin: -3px;
+}
+
+#mensagem{
+    margin: 1px;
+}
+
+#mensagem1{
+    padding-top: 4px;
+    font-weight: bolder;
+    margin-bottom: 0rem;
+}
+
+#form-email {
+    padding : 20px;
+}
